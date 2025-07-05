@@ -55,7 +55,7 @@ A smart, user-friendly job portal designed to connect job seekers with employers
 * Python 3
 * Django
 * Django REST Framework
-* SQLLite(Default)
+* SQLLite (Default)
 * Pillow (image uploads)
 
 ### Frontend:
