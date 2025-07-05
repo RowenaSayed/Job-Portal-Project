@@ -99,7 +99,7 @@ This job portal solves the inefficiencies of existing platforms by providing:
 ## 👥 Contributors
 
 * Aya Mohamed Husseien
-* Rowena Sied Abdullah
+* Rowena Sayed Abdullah
 * Arwa Muhammad Ali Galal
 * Zeinab Eltieb Hagag
 * Kerlos Samuel Gawargy
